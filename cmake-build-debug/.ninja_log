@@ -1,0 +1,9 @@
+# ninja log v5
+1	253	1665800402714321425	CMakeFiles/Archive.dir/Option.cpp.o	ffe55cec20c7e8f8
+254	279	1665800402740759825	CMakeFiles/Archive.dir/Stock.cpp.o	2ad1c03e5667914d
+1	495	1665800402953773065	CMakeFiles/Archive.dir/Option_Price.cpp.o	1de6d858d32e954
+1	655	1665800403115974174	CMakeFiles/Archive.dir/Unit_Test.cpp.o	f33a7e3cc2b1245a
+1	677	1665800403138028820	CMakeFiles/Archive.dir/Simulated_Price.cpp.o	f9c90b0d85251874
+0	685	1665800403146325869	CMakeFiles/Archive.dir/BSM_Part2.cpp.o	95e20947f6879b82
+0	728	1665800403189194826	CMakeFiles/Archive.dir/main.cpp.o	1da4d367a08638f2
+728	769	1665800403232325033	Archive	4cbc99470ba4532c
